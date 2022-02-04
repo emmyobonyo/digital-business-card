@@ -1,12 +1,11 @@
 body {
-  background-color:#23252C;
+  background-color: #23252c;
 }
 
 .app {
-  background-color: #1A1B21;
+  background-color: #1a1b21;
   width: 370px;
   margin: auto;
   margin-top: 45px;
   border-radius: 10px 10px 10px 10px;
-  height: fit-content;
 }

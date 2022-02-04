@@ -1,6 +1,6 @@
 img {
-max-width: 100%;
-border-radius: 10px 10px 0 0;
+  max-width: 100%;
+  border-radius: 10px 10px 0 0;
 }
 
 header {
@@ -10,18 +10,18 @@ header {
 .name {
   color: white;
   margin-top: 20px;
-  margin-bottom: 0px !important;
+  margin-bottom: 0 !important;
 }
 
-h4{
-  margin: 0px !important;
+h4 {
+  margin: 0 !important;
 }
 
 .job {
   font-size: 13px;
   font-weight: 400;
   line-height: 15px;
-  color: #F3BF99;
+  color: #f3bf99;
   margin-top: 6px !important;
   margin-bottom: 8px !important;
 }
@@ -38,7 +38,7 @@ h4{
 }
 
 i {
-  margin-right: 8px
+  margin-right: 8px;
 }
 
 .buttons {
@@ -60,8 +60,8 @@ button {
 }
 
 .btn-2 {
-  background-color: #5093E2;
-  border: 1px solid #5093E2;
+  background-color: #5093e2;
+  border: 1px solid #5093e2;
   color: white;
   margin-left: 8px;
 }
