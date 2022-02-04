@@ -2,3 +2,66 @@ img {
 max-width: 100%;
 border-radius: 10px 10px 0 0;
 }
+
+header {
+  text-align: center;
+}
+
+.name {
+  color: white;
+  margin-top: 20px;
+  margin-bottom: 0px !important;
+}
+
+h4{
+  margin: 0px !important;
+}
+
+.job {
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 15px;
+  color: #F3BF99;
+  margin-top: 6px !important;
+  margin-bottom: 8px !important;
+}
+
+.github {
+  font-size: 10px;
+  line-height: 15px;
+  color: white;
+  text-decoration: none;
+}
+
+.mail-button {
+  background-color: white;
+}
+
+i {
+  margin-right: 8px
+}
+
+.buttons {
+  margin-top: 15px;
+}
+
+button {
+  font-size: 15px;
+  width: 115px;
+  height: 35px;
+  padding: 9px 11px;
+  border-radius: 6px;
+}
+
+.btn-1 {
+  background-color: white;
+  border: 1px solid white;
+  margin-right: 8px;
+}
+
+.btn-2 {
+  background-color: #5093E2;
+  border: 1px solid #5093E2;
+  color: white;
+  margin-left: 8px;
+}
