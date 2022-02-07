@@ -2,7 +2,7 @@
 
 > A card introducing myself (Header section)
 
-![Home Page](./public/home.png)
+![Home Page](./public/completed.png)
 
 - This is the Header section of the App
 
