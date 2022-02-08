@@ -1,0 +1,12 @@
+body {
+  background-color: #23252c;
+  font-family: 'Inter', sans-serif;
+}
+
+.app {
+  background-color: #1a1b21;
+  width: 370px;
+  margin: auto;
+  margin-top: 45px;
+  border-radius: 10px 10px 10px 10px;
+}

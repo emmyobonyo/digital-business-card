@@ -1,0 +1,12 @@
+/* stylelint-disable declaration-block-no-shorthand-property-overrides */
+
+.about-section {
+  margin-top: 33px !important;
+  width: 247px;
+  margin: auto;
+  color: white;
+}
+
+p {
+  color: #dcdcdc;
+}
