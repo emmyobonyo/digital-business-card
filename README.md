@@ -25,6 +25,12 @@ $ git checkout header
 $ npm start
 ```
 
+## Run APP in the Broswer
+- Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+## Original Figma file
+- https://www.figma.com/file/ISYGvCdElbFtBs4oDESymB/Digital-Business-Card-(Copy)
+
 👤 **Emmanuel Obonyo**
 
 - GitHub: [@emmyobonyo](https://github.com/emmyobonyo)
