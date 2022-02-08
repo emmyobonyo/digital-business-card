@@ -2,7 +2,7 @@
 
 > A card introducing myself (Header section)
 
-![Home Page](./public/home.png)
+![Home Page](./public/completed.png)
 
 - This is the Header section of the App
 
@@ -24,6 +24,12 @@ $ npm install
 $ git checkout header
 $ npm start
 ```
+
+## Run APP in the Broswer
+- Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+## Original Figma file
+- https://www.figma.com/file/ISYGvCdElbFtBs4oDESymB/Digital-Business-Card-(Copy)
 
 👤 **Emmanuel Obonyo**
 
