@@ -1,10 +1,10 @@
 # Digital Identification App
 
-> A card introducing myself (Header section)
+> A card introducing myself.
 
 ![Home Page](./public/completed.png)
 
-- This is the Header section of the App
+- This is the full display of the App
 
 ## Built With
 
@@ -16,12 +16,12 @@
 ```
 $ git clone https://github.com/emmyobonyo/digital-business-card.git
 $ cd digital-business-card
+$ git checkout development
 ```
 
 ## Run Project
 ```
 $ npm install
-$ git checkout header
 $ npm start
 ```
 
@@ -31,6 +31,7 @@ $ npm start
 ## Original Figma file
 - https://www.figma.com/file/ISYGvCdElbFtBs4oDESymB/Digital-Business-Card-(Copy)
 
+## Authors
 👤 **Emmanuel Obonyo**
 
 - GitHub: [@emmyobonyo](https://github.com/emmyobonyo)
