@@ -18,7 +18,7 @@ $ git clone https://github.com/emmyobonyo/digital-business-card.git
 $ cd digital-business-card
 $ git checkout development
 ```
-- Add this file to your root directory (the one that has your node modules folder) [.eslintrc.json](https://github.com/microverseinc/linters-config/blob/master/react-redux/.eslintrc.json). Don't forget to add the `.` at the begining.
+- Add this file [.eslintrc.json](https://github.com/microverseinc/linters-config/blob/master/react-redux/.eslintrc.json) to your root directory (the one that has your node modules folder). Don't forget to add the `.` at the begining.
 
 ## Run Project
 ```
